@@ -10,6 +10,7 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/lei-3/pen/gOvaZXQ
 ## Future upgrades:
 <ol>
   <li> Add history of  moves, to undo action. </li>
+  <li> Add when there is a draw (no winner) </li>
   <li> Stylistic features </li>
 </ol>
 
